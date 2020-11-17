@@ -113,9 +113,9 @@
   font-weight: normal;
   margin-right: 3px;
 } */
-.chat_left_sidebar:hover{
+/* .chat_left_sidebar:hover{
   background-color:lightgrey
-}
+} */
 
 .chat_left_sidebar::-webkit-scrollbar{
   width: 3px;
